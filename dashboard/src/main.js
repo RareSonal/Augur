@@ -16,5 +16,5 @@ app.use(ElementPlus);
 app.mount('#app');
 
 // Optionally, set a global axios base URL (change to your API's base URL if needed)
-axios.defaults.baseURL = 'http://localhost:7071/api';
+axios.defaults.baseURL = '/api';
 
