@@ -48,7 +48,7 @@ npm install
 npm run serve
 ```
 
-Vue app will run on localhost:8080 and fetch data from the local Azure Functions running on http://localhost:7071/api.
+Vue app will run on http://localhost:8080 and fetch data from the local Azure Functions running on http://localhost:7071/api.
 
 # ☁️ Deployment (Azure)
 
