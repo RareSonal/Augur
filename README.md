@@ -21,9 +21,6 @@ A lightweight, real-time distributor metrics dashboard built using Vue.js and Az
 | DevOps      | GitHub Actions, CORS Config   |
 | Monitoring  | Azure Application Insights    |
 
-
----
-
 # 🔧 Setup Instructions
 
 ### Prerequisites
@@ -53,7 +50,7 @@ npm run serve
 
 Vue app will run on localhost:8080 and fetch data from the local Azure Functions running on http://localhost:7071/api.
 
-☁️ Deployment (Azure)
+# ☁️ Deployment (Azure)
 
 Fork/Push the repo to your GitHub
 
